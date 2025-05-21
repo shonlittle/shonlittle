@@ -7,12 +7,12 @@ You’ve stumbled upon my GitHub profile — either you’re here to poach me fo
 I'm a **Software Engineering Leader**, **AI solution wrangler**, and occasional **bug whisperer**, with 20+ years of experience building digital things that actually _work_. I’ve led global teams, architected scalable systems, and once deployed to prod on a Friday. It went fine. Nobody believes me.
 
 In short:  
-I build stuff. I ship it. I teach others to do the same. And I drink a lot of coffee in the process.
+I build stuff; I ship it; I teach others to do the same. And I drink a lot of coffee in the process.
 
 ## My Toolkit (aka toys I know how to use)
 
 ```bash
-Languages:      Javascript/Typescript, Python, SQL, Java, GO, C#, PHP, VB, HTML, CSS, (and the tears of legacy VBA)
+Languages:      JavaScript/TypeScript, Python, SQL, Java, Go, C#, PHP, VB, HTML, CSS, (and the tears of legacy VBA)
 Frontend:       React.js, Angular, D3.js, Redux, Material UI, Bootstrap, LESS, Sass, Material Design, and jQuery...because I’ve been coding since dinosaurs roamed the DOM.
 Backend:        Django REST Framework, FastAPI, Flask, Node.js, Express, Spring Boot, ASP.NET
 Databases:      PostgreSQL, MongoDB, MySQL, Microsoft SQL Server, SQLite, Neo4j, Redshift, Redis, and a hint of Microsoft Access nostalgia.
@@ -21,7 +21,7 @@ DevOps:         Git, GitHub, GitHub Actions, CircleCI, Docker, Docker Compose, a
 API:            REST and GraphQL.
 Security:       OAuth 2.0 and JWT.
 Data & BI:      Alteryx, Business Intelligence, Performance Metrics, Data Analytics and Database Management.
-AI/ML:          LangChain, Pinecone, LLMs, RAGs, and wrapping them in a candy-coded shell.
+AI:             LangChain, Pinecone, LLMs, and RAGs — all wrapped in a candy-coded shell.
 Buzzwords:      MVP, ROI, LOL
 ```
 
@@ -46,7 +46,7 @@ The next great opportunity where I can:
 - Build elegant software
 - Solve hairy problems (bonus points if they're in regulated industries or on fire)
 
-If you’re building something exciting (or slightly chaotic), let’s talk.
+If you’re building something exciting (or especially if it’s slightly chaotic), let’s talk.
 
 ## 📫 Find Me in the Wild
 
