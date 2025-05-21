@@ -11,7 +11,7 @@ I build stuff; I ship it; I teach others to do the same. And I drink a lot of co
 
 ## My Toolkit (aka toys I know how to use)
 
-```bash
+```text
 Languages:      JavaScript/TypeScript, Python, SQL, Java, Go, C#, PHP, VB, HTML, CSS, (and the tears of legacy VBA)
 Frontend:       React.js, Angular, D3.js, Redux, Material UI, Bootstrap, LESS, Sass, Material Design, and jQuery...because I’ve been coding since dinosaurs roamed the DOM.
 Backend:        Django REST Framework, FastAPI, Flask, Node.js, Express, Spring Boot, ASP.NET
