@@ -9,6 +9,13 @@ I'm a **Software Engineering Leader**, **AI solution wrangler**, and occasional 
 In short:  
 I build stuff; I ship it; I teach others to do the same. And I drink a lot of coffee in the process.
 
+## Current and Active Development Projects
+
+- Ongoing maintenance of the [Relevé Studios website](https://relevestudios.com/)
+- Developing **Studio Schedule**, an intelligent scheduling system for dance studios ([GitHub repo](https://github.com/shonlittle/studio-schedule))
+- Redesigning and upgrading the UI/UX of the [Little Daisy Fund website](http://littledaisy.org/)
+- Serving as the Dance Studio Owners Association’s AI Expert Coach, teaching studio owners and staff the latest AI trends
+
 ## My Toolkit (aka toys I know how to use)
 
 ```text
