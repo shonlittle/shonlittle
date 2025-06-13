@@ -60,6 +60,26 @@ I build stuff; I ship it; I teach others to do the same. And I drink a lot of co
 
 I'm exploring new opportunities to lead software innovation at the intersection of **AI**, **cloud-native engineering**, and **human-centered design**. I'm passionate about mentoring teams, scaling impactful products, and building systems that balance elegance and performance.
 
+## 🎬 Creative Projects
+
+### "Director.exe" - AI-Generated Short Film
+
+<div align="center">
+
+**🏆 Official Selection - Artificial Intelligence Media Festival**
+
+_A short film created entirely using GenAI tools_
+
+**Here is the trailer:**
+
+[![YouTube Video](https://img.youtube.com/vi/OfLvQSROk1M/maxresdefault.jpg)](https://www.youtube.com/watch?v=OfLvQSROk1M)
+
+**Tools Used:** Leonardo.AI • Runway ML • ElevenLabs • ChatGPT
+
+</div>
+
+---
+
 ## 🎉 Fun Facts
 
 > **Achievement Unlocked**: Professional Code Whisperer 🏆
