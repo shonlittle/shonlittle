@@ -26,10 +26,6 @@ I build stuff; I ship it; I teach others to do the same. And I drink a lot of co
 
 ## 🛠️ My Toolkit (aka toys I know how to use)
 
-<details>
-<summary><b>🔧 Click to expand my technical arsenal</b></summary>
-<br>
-
 | Category         | Technologies                                                                                                                                                |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Languages**    | JavaScript/TypeScript, Python, SQL, Java, Go, C#, PHP, VB, HTML, CSS, (and the tears of legacy VBA)                                                         |
@@ -43,8 +39,6 @@ I build stuff; I ship it; I teach others to do the same. And I drink a lot of co
 | **Data & BI**    | Alteryx, Business Intelligence, Performance Metrics, Data Analytics and Database Management.                                                                |
 | **AI/LLM Tools** | LangChain, Pinecone, LLMs, and RAGs — all wrapped in a candy-coded shell.                                                                                   |
 | **Buzzwords**    | MVP, ROI, LOL                                                                                                                                               |
-
-</details>
 
 ### 📊 GitHub Stats
 
