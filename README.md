@@ -28,7 +28,7 @@ DevOps:         Git, GitHub, GitHub Actions, CircleCI, Docker, Docker Compose, a
 API:            REST and GraphQL.
 Security:       OAuth 2.0 and JWT.
 Data & BI:      Alteryx, Business Intelligence, Performance Metrics, Data Analytics and Database Management.
-AI:             LangChain, Pinecone, LLMs, and RAGs — all wrapped in a candy-coded shell.
+AI/LLM Tools:   LangChain, Pinecone, LLMs, and RAGs — all wrapped in a candy-coded shell.
 Buzzwords:      MVP, ROI, LOL
 ```
 
