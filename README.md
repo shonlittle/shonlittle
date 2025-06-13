@@ -50,7 +50,8 @@ I build stuff; I ship it; I teach others to do the same. And I drink a lot of co
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shonlittle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shonlittle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,contribs&hide_rank=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shonlittle&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -90,7 +91,7 @@ If you're building something exciting (or especially if it's slightly chaotic), 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shonlittle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,contribs&hide_rank=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shonlittle/)
 
 [![Location](https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
