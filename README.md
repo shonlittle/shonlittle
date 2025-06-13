@@ -74,7 +74,7 @@ _A short film created entirely using GenAI tools_
 
 [![YouTube Video](https://img.youtube.com/vi/OfLvQSROk1M/maxresdefault.jpg)](https://www.youtube.com/watch?v=OfLvQSROk1M)
 
-**Tools Used:** Leonardo.AI • Runway ML • ElevenLabs • ChatGPT
+**Tools Used:** Leonardo.AI • Runway ML • ElevenLabs • ChatGPT • Suno
 
 </div>
 
