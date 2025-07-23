@@ -60,7 +60,10 @@ I'm exploring new opportunities to lead software innovation at the intersection 
 
 <div align="center">
 
-**🏆 Official Selection - Artificial Intelligence Media Festival**
+**🏆 Semi-Finalist - Artificial Intelligence Media Festival**
+**🏆 Semi-Finalist - Tarzana International Film Festival**
+**🏆 Official Selection - Pixel Minds**
+**🏆 Official Selection - Studio City Film Festival**
 
 _A short film created entirely using GenAI tools_
 
