@@ -58,13 +58,13 @@ I'm exploring new opportunities to lead software innovation at the intersection 
 
 ### "Director.exe" - AI-Generated Short Film
 
-<div align="center">
-
 - **🏆 Semi-Finalist - Artificial Intelligence Media Festival**
 - **🏆 Semi-Finalist - Tarzana International Film Festival**
 - **🏆 Official Selection - Pixel Minds**
 - **🏆 Official Selection - Studio City Film Festival**
 
+<div align="center">
+  
 _A short film created entirely using GenAI tools_
 
 **Here is the trailer:**
