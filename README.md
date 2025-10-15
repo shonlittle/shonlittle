@@ -19,6 +19,7 @@ I build stuff; I ship it; I teach others to do the same. And I drink a lot of co
 
 ## 🔨 Current and Active Development Projects
 
+- 🔨 Build [tools.dance](https://tools.dance) smart tools by studio owners for studio owners
 - 🎭 Ongoing maintenance of the [Relevé Studios website](https://relevestudios.com/)
 - 📅 Developing **Studio Schedule**, an intelligent scheduling system for dance studios ([GitHub repo](https://github.com/shonlittle/studio-schedule))
 - 🌼 Redesigning and upgrading the UI/UX of the [Little Daisy Fund website](http://littledaisy.org/)
@@ -58,10 +59,10 @@ I'm exploring new opportunities to lead software innovation at the intersection 
 
 ### "Director.exe" - AI-Generated Short Film
 
-- **🏆 Semi-Finalist - Artificial Intelligence Media Festival**
-- **🏆 Semi-Finalist - Tarzana International Film Festival**
+- **🏆 Crewless Short Winner - Studio City Film Festival**
+- **🏆 Best SciFi Finalist - Artificial Intelligence Media Festival**
+- **🏆 Official Selection - Tarzana International Film Festival**
 - **🏆 Official Selection - Pixel Minds**
-- **🏆 Official Selection - Studio City Film Festival**
 
 <div align="center">
   
